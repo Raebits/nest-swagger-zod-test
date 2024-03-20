@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Issue 
+
+Traced issue on @nestjs/swagger module on file @nestjs+swagger/node_modules/@nestjs/swagger/dist/services/parameter-metadata-accessor.js
